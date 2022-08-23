@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-
+//盲盒+可变的uri
 pragma solidity ^0.8.0;
 
 /**
